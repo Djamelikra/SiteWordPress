@@ -1,12 +1,9 @@
 # Tous les fichiers d'extensions:
-
 .tmp
 .docx
 .xlsb
 .one
 .lnk
-
 # Tout le contenu des répertoires:
-
 /WorkItems
 /Temp
