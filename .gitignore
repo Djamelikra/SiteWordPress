@@ -1,8 +1,8 @@
 # Tous les fichiers d'extensions :
-.tmp
-.docx
-.xlsb
-.one
+*.tmp
+*.docx
+*.xlsb
+*.one
 # Tout le contenu des répertoires:
 /WorkItems
 /Temp
